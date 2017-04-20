@@ -10,7 +10,7 @@ print (name)
 
 #multi assignment
 a = b = c =2
-print(a + b + c)
+print(a + b + " " +print(a + " " + b + " " + c) c)
 
 d,e,f = 1,5.0,"Dar"
 print(d)
